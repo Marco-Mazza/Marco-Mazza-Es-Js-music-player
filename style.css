@@ -1,0 +1,11 @@
+.bg-image{
+    background: url(./media/chill-img.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+img{
+    height: 280px;
+    width: 280px;
+    border-radius: 200px;
+}
